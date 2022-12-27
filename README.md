@@ -1,3 +1,4 @@
 # Studi-Kasus-Data-Mining
-* Studi Kasus kelompok kami ambil adalah data transaksi ojek online
-* Metode yang kelompok kami gunakan adalah metode clustering
+* Dataset yang kelompok kami gunakan adalah data nilai rapor mata pelajaran kimia 
+* Metode yang kelompok kami gunakan adalah metode clustering 
+* Tujuannya adalah untuk melakukan pengelompokan atau Clustering tingkat pemahaman siswa terhadap mata pelajaran kimia berdasarkan nilai PAS/PAT dan Rapor
